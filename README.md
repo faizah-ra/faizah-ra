@@ -45,9 +45,8 @@ Proyek NLP untuk mengklasifikasikan sentimen pengguna Gojek dari ulasan teks. Me
 
 ## 📫 Kontak
 
-- 📧 Email: faizahrzki@gmail.com  
+- 📧 Email: frauliawati@gmail.com  
 - 💼 LinkedIn: [linkedin.com/in/faizahrzki](https://linkedin.com/in/faizahrzki)  
-- 📁 CV & Sertifikat: [Google Drive Portofolio (akses publik)](https://drive.google.com/...)
 
 ---
 
